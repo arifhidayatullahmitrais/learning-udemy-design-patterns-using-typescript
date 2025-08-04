@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns-using-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "prettier": "3.6.2"
+  }
+}
