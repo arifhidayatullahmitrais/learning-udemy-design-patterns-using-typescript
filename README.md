@@ -12,3 +12,4 @@ OOP is a programming paradigm that uses the concept of objects as a way to struc
 ## [SOLID Principles](https://cloudaffle.com/series/solid-design-principles/what-is-solid/)
 
 * Single Responsibility: A class should have only one reason to change
+* Open Close: (class, module, function, etc.) should be open for extension, but closed for modification.
