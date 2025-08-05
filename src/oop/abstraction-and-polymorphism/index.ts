@@ -40,3 +40,5 @@ console.log('Area Of Circle: ', calculateTotalArea(circle))
 console.log('Area Of Rectangle: ', calculateTotalArea(rectangle))
 
 // On abstraction no need to know detail of the implementation, we only trust it should have area and perimeter method
+// On polymorphism Shape can become multiple object for Circle and Rectangle.
+// Or in polymorphism both Circle and Rectangle is form of Shape
