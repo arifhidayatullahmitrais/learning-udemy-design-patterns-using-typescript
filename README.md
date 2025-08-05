@@ -7,3 +7,4 @@ OOP is a programming paradigm that uses the concept of objects as a way to struc
 * Abstraction is the process of simplifying system by breaking the down into smaller, more manageable components.
 * Encapsulation promotes the separation of concerns and data hiding, making it easier to reason about, maintain, and reuse code.
 * Polymorphism is a fundamental concept that allows objects of different classes to be treated as objects of a common superclass
+* Inheritance help create new class from existing class (base class) while maintaining the existing class behaviour and extending or overriding it to add new functionality
