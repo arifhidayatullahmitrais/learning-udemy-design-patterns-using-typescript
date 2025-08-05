@@ -1,6 +1,6 @@
 # OOP
 
-## What is OOP (https://cloudaffle.com/series/object-oriented-typescript/introduction-to-oop/)
+## [What is OOP](https://cloudaffle.com/series/object-oriented-typescript/introduction-to-oop/)
 
 OOP is a programming paradigm that uses the concept of objects as a way to structure and organize code.
 
@@ -8,3 +8,7 @@ OOP is a programming paradigm that uses the concept of objects as a way to struc
 * Encapsulation promotes the separation of concerns and data hiding, making it easier to reason about, maintain, and reuse code.
 * Polymorphism is a fundamental concept that allows objects of different classes to be treated as objects of a common superclass
 * Inheritance help create new class from existing class (base class) while maintaining the existing class behaviour and extending or overriding it to add new functionality
+
+## [SOLID Principles](https://cloudaffle.com/series/solid-design-principles/what-is-solid/)
+
+* Single Responsibility: A class should have only one reason to change
