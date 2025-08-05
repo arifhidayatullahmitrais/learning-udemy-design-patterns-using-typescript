@@ -13,3 +13,7 @@ OOP is a programming paradigm that uses the concept of objects as a way to struc
 
 * Single Responsibility: A class should have only one reason to change
 * Open Close: (class, module, function, etc.) should be open for extension, but closed for modification.
+* Liskov Substitution: if S is a subtype of T, then objects of type T maybe replaced with object of type S
+  (Does this mean override parent method?)
+  (On my understanding of the code example its implementation of polymorphism)
+  Result from asking AI: ist close related as: Polymorphism is How, while Liskov substitution is When and Why
