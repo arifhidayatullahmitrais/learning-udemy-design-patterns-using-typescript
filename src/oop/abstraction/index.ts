@@ -1,8 +1,3 @@
-// shapes
-// Area, Perimeter
-// simple - single function calculateTotalArea
-
-// Interface A Shape
 interface Shape {
   area(): number
   perimeter(): number
@@ -43,3 +38,5 @@ let circle: Circle = new Circle(5)
 let rectangle: Rectangle = new Rectangle(4, 6)
 console.log('Area Of Circle: ', calculateTotalArea(circle))
 console.log('Area Of Rectangle: ', calculateTotalArea(rectangle))
+
+// On abstraction no need to know detail of the implementation, we only trust it should have area and perimeter method
