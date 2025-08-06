@@ -12,7 +12,8 @@ OOP is a programming paradigm that uses the concept of objects as a way to struc
 ## [SOLID Principles](https://cloudaffle.com/series/solid-design-principles/what-is-solid/)
 
 * Single Responsibility: A class should have only one reason to change
-* Open Close: (class, module, function, etc.) should be open for extension, but closed for modification.
-* Liskov Substitution: if S is a subtype of T, then objects of type T maybe replaced with object of type S
+* Open Close: (class, module, function, etc.) Should be open for extension, but closed for modification.
+* Liskov Substitution: If S is a subtype of T, then objects of type T maybe replaced with object of type S
   * (On my understanding of the code example its implementation of polymorphism)
-  * Result from asking AI: ist close related as: Polymorphism is How, while Liskov substitution is When and Why
+  * Result from asking AI: Is close related as: Polymorphism is How, while Liskov substitution is When and Why
+* Interface Segregation: No client should be forced to depend on interfaces they do not use.
