@@ -20,3 +20,8 @@ Object-oriented programming is a programming paradigm that uses the concept of o
   * Abstractions should not depend on details
   * Details should depend on abstractions
 
+# Design Patterns
+
+## [Creational Design Pattern](https://cloudaffle.com/series/creational-design-patterns/intro-to-creational-design-patterns/)
+
+* Singleton: A creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance
