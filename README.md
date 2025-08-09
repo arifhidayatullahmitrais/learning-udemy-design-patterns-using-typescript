@@ -15,7 +15,7 @@ Object-oriented programming is a programming paradigm that uses the concept of o
   * (On my understanding of the code example its implementation of polymorphism)
   * Result from asking AI: Is close related as: Polymorphism is How, while Liskov substitution is When and Why
 * Interface Segregation: No client should be forced to depend on interfaces they do not use.
-* Dependency Inversion: High -level modules should not depend on low-level modules
+* Dependency Inversion: High-level modules should not depend on low-level modules
   * Both should depend on abstractions
   * Abstractions should not depend on details
   * Details should depend on abstractions
@@ -25,3 +25,6 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 ## [Creational Design Pattern](https://cloudaffle.com/series/creational-design-patterns/intro-to-creational-design-patterns/)
 
 * Singleton: A creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance
+* Prototype: Pattern that allows cloning object, even complex ones, without coupling to their specific classes.
+  * All prototype classes have a common interface that makes it possible to copy objects even if their concrete classe are unknown
+  * Prototype objects can produce full copies since objects of the same class can access each other's private fields
