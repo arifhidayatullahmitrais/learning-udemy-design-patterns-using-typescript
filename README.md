@@ -28,3 +28,11 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 * Prototype: Pattern that allows cloning object, even complex ones, without coupling to their specific classes.
   * All prototype classes have a common interface that makes it possible to copy objects even if their concrete classe are unknown
   * Prototype objects can produce full copies since objects of the same class can access each other's private fields
+
+## [Structural Design Patterns](https://cloudaffle.com/series/structural-design-patterns/intro-to-structural-design-patterns/)
+
+## [Behavioral Design Patterns](https://cloudaffle.com/series/behavioral-design-patterns/intro-to-behavioral-design-patterns/)
+
+* Observer: allow you to define or create a subscription mechanism to send notifications to multiple objects about any new events that happens to the object they're observing
+  * The object that is being watched is often called the subject.
+  * The object that are watching the state changes are called observers or listeners
