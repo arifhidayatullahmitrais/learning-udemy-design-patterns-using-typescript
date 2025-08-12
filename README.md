@@ -29,6 +29,7 @@ Object-oriented programming is a programming paradigm that uses the concept of o
   * All prototype classes have a common interface that makes it possible to copy objects even if their concrete classe are unknown
   * Prototype objects can produce full copies since objects of the same class can access each other's private fields
 * Builder: Lets you construct complex object step by step (build object with various combination, long step todo)
+* Factory: Provide an interface for creating object in a superclass, but allows subclasses to alter the type of object that will be created
 
 ## [Structural Design Patterns](https://cloudaffle.com/series/structural-design-patterns/intro-to-structural-design-patterns/)
 
