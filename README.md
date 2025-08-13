@@ -43,6 +43,7 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 * Decorator: he Decorator design pattern is a structural design pattern that allows you to dynamically add or override behaviour in an existing object without changing its implementation. This pattern is particularly useful when you want to modify the behavior of an object without affecting other objects of the same class
   * Require interface compatibility, not suit for adding new method outside interface. if interface change all decorator need to change also
   * Implemented on Middleware, for example Auth Middleware
+* Adapter: The Adapter Design Pattern is a software design pattern that allows the interface of an existing class to be used from another interface. It's often used to make existing classes work with others without modifying their source code. The Adapter Pattern is especially useful when the classes that need to communicate with each other do not have compatible interfaces.
 
 ## [Behavioral Design Patterns](https://cloudaffle.com/series/behavioral-design-patterns/intro-to-behavioral-design-patterns/)
 
