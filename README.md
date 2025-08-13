@@ -32,8 +32,11 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 * Factory: Provide an interface for creating object in a superclass, but allows subclasses to alter the type of object that will be created
 * Abstract Factory: Provides an interface for creating families of related or dependent object without specifying their concrete classes
   * With abstract factory pattern, if we need to add feature it will violate SOLID (open/close principle) and become hard to maintain and modification.
+  * Very tight coupling
 
 ## [Structural Design Patterns](https://cloudaffle.com/series/structural-design-patterns/intro-to-structural-design-patterns/)
+
+* Facade: The Facade design pattern is a structural design pattern that provides a simplified interface to a complex system. It involves creating a wrapper interface over a complex system to hide its complexities. This pattern involves a single class that provides simplified methods required by the client and delegates calls to methods of existing system classes
 
 ## [Behavioral Design Patterns](https://cloudaffle.com/series/behavioral-design-patterns/intro-to-behavioral-design-patterns/)
 
