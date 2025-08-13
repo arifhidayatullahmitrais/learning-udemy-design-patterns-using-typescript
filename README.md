@@ -39,6 +39,10 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 * Facade: The Facade design pattern is a structural design pattern that provides a simplified interface to a complex system. It involves creating a wrapper interface over a complex system to hide its complexities. This pattern involves a single class that provides simplified methods required by the client and delegates calls to methods of existing system classes
 * Bridge: The Bridge pattern is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other
 * Composite: The Composite pattern is a structural design pattern that lets you compose objects into tree-like structures and then work with these structures as if they were individual objects
+  * Violate single responsible principle as on the composite class there is an additional method enhancement
+* Decorator: he Decorator design pattern is a structural design pattern that allows you to dynamically add or override behaviour in an existing object without changing its implementation. This pattern is particularly useful when you want to modify the behavior of an object without affecting other objects of the same class
+  * Require interface compatibility, not suit for adding new method outside interface. if interface change all decorator need to change also
+  * Implemented on Middleware, for example Auth Middleware
 
 ## [Behavioral Design Patterns](https://cloudaffle.com/series/behavioral-design-patterns/intro-to-behavioral-design-patterns/)
 
