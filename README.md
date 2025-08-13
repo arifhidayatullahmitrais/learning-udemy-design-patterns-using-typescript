@@ -31,6 +31,7 @@ Object-oriented programming is a programming paradigm that uses the concept of o
 * Builder: Lets you construct complex object step by step (build object with various combination, long step todo)
 * Factory: Provide an interface for creating object in a superclass, but allows subclasses to alter the type of object that will be created
 * Abstract Factory: Provides an interface for creating families of related or dependent object without specifying their concrete classes
+  * With abstract factory pattern, if we need to add feature it will violate SOLID (open/close principle) and become hard to maintain and modification.
 
 ## [Structural Design Patterns](https://cloudaffle.com/series/structural-design-patterns/intro-to-structural-design-patterns/)
 
